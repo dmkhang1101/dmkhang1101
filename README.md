@@ -38,12 +38,12 @@ Currently, I'm working as a **Software Engineer Intern (AI Systems)** at **GeoCo
 
 ### 🚀 Featured Projects
 
-**📚 BiboAi**
+**📚 [BiboAi](https://app.bibo-ai.com/)**
 *An LLM-powered platform for creating multilingual children's books.*
 * **Tech:** Next.js, MongoDB, Kubernetes, Celery, Redis, Google Gemini 2.5.
 * **Highlight:** Engineered async workers to handle long-running generation tasks (text, image, audio).
 
-**🛡️ Feature Store Fraud Detection**
+**🛡️ [Feature Store Fraud Detection](https://github.com/huybro/feature-store-fraud-detection)**
 *A centralized feature store for real-time fraud detection.*
 * **Tech:** Kafka, PyFlink, Redis, PostgreSQL, FastAPI.
 * **Highlight:** Reduced model training time by **77%** and improved inference latency by **25x**.
