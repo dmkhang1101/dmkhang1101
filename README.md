@@ -33,7 +33,7 @@ Currently, I'm working as a **Software Engineer Intern (AI Systems)** at **GeoCo
 
 ### 🔭 Current & Past Work
 
-* **GeoComply (Current):** Building a Multi-Agent System using **DSPy** and **Claude Sonnet 4.0** to automate fraud reasoning and detect location spoofing.
+* **GeoComply (Current):** Building a Multi-Agent System using **DSPy** and **Claude Sonnet 4.5** to automate fraud reasoning and detect location spoofing.
 * **Omnipractice:** Developed an AI billing agent using **Google ADK** and **Pub/Sub** to automate workflows for healthcare clinicians.
 
 ### 🚀 Featured Projects
