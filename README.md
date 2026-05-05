@@ -2,7 +2,7 @@
 
 I am a **Software Engineer** and **CS Master's Student** at UMass Amherst with a passion for building AI-driven systems and scalable infrastructure.
 
-Currently, I'm working as a **Software Engineer Intern (AI Systems)** at **GeoComply** in Seattle, architecting multi-agent systems to detect fraud.
+Previously, I was a **Software Engineer Intern (AI Systems)** at **GeoComply** in Seattle, architecting multi-agent systems to detect fraud.
 
 ---
 
