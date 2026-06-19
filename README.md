@@ -1,8 +1,8 @@
 # Hi there, I'm Khang Do! 👋
 
-I am a **Software Engineer** and **CS Master's Student** at UMass Amherst with a passion for building AI-driven systems and scalable infrastructure.
+I am a **Software Engineer** and **CS Master's Student** at UMass Amherst specializing in Data Science. I have a strong passion for architecting production-grade multi-agent systems, designing agentic workflows, and building scalable data infrastructure.
 
-Previously, I was a **Software Engineer Intern (AI Systems)** at **GeoComply** in Seattle, architecting multi-agent systems to detect fraud.
+Previously, I engineered AI systems at **GeoComply**, and I am currently working as a **Software Engineer Intern** on the **Google Chat** team[cite: 1].
 
 ---
 
@@ -14,39 +14,44 @@ Previously, I was a **Software Engineer Intern (AI Systems)** at **GeoComply** i
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**AI & Machine Learning**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+**AI, Machine Learning & Agentic Frameworks**
+![Gemini](https://img.shields.io/badge/-Gemini%203.5-8E75B2?style=flat)
+![Claude](https://img.shields.io/badge/-Claude%204.6-D97757?style=flat)
 ![DSPy](https://img.shields.io/badge/-DSPy-blue?style=flat)
-![Gemini](https://img.shields.io/badge/-Gemini%202.5-8E75B2?style=flat)
-![Claude](https://img.shields.io/badge/-Claude%20Sonnet%204.0-D97757?style=flat)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-**Backend & Infrastructure**
+**Backend, Infrastructure & Streaming**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![PyFlink](https://img.shields.io/badge/-PyFlink-E6526F?style=flat&logo=apacheflink&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![PyFlink](https://img.shields.io/badge/-PyFlink-E6526F?style=flat&logo=apacheflink&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/-Google%20Pub%2FSub-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ---
 
-### 🔭 Current & Past Work
+### 🔭 Experience
 
-* **GeoComply (Current):** Building a Multi-Agent System using **DSPy** and **Claude Sonnet 4.5** to automate fraud reasoning and detect location spoofing.
-* **Omnipractice:** Developed an AI billing agent using **Google ADK** and **Pub/Sub** to automate workflows for healthcare clinicians.
+* **Google (Current):** Architecting a Multi-Agent System leveraging internal frameworks and Gemini 3.5 to automate the triaging and root-cause analysis of internal bugs[cite: 1]. Building data-synthesis pipelines across codebases and experiment datasets to isolate culprit builds and cut response times by 50%[cite: 1].
+* **GeoComply:** Designed an AI-powered Multi-Agent System with custom MCP servers leveraging DSPy and Vertex AI to automate fraud reasoning[cite: 1]. Optimized data layers with Databricks Lakebase to reduce data validation runtime by 50% and agent SQL retrieval latency by 80%[cite: 1].
+* **Omnipractice:** Developed a Google ADK-powered AI billing agent with custom MCP servers and Mem0 memory to process Mongo Change Streams and automate healthcare clearinghouse workflows[cite: 1].
+
+---
 
 ### 🚀 Featured Projects
 
 **📚 [BiboAi](https://app.bibo-ai.com/)**
-*An LLM-powered platform for creating multilingual children's books.*
-* **Tech:** Next.js, MongoDB, Kubernetes, Celery, Redis, Google Gemini 2.5.
-* **Highlight:** Engineered async workers to handle long-running generation tasks (text, image, audio).
+*An LLM-powered platform enabling authors to create multilingual children's books via automated text, translation, image, and audio generation[cite: 1].*
+* **Tech:** Next.js, Express.js, MongoDB, Kubernetes, Celery, Redis, Open Policy Agent, Google Gemini 2.5[cite: 1].
+* **Highlight:** Engineered distributed asynchronous workers to handle heavy, parallel background asset-building pipelines[cite: 1].
 
 **🛡️ [Feature Store Fraud Detection](https://github.com/huybro/feature-store-fraud-detection)**
-*A centralized feature store for real-time fraud detection.*
-* **Tech:** Kafka, PyFlink, Redis, PostgreSQL, FastAPI.
-* **Highlight:** Reduced model training time by **77%** and improved inference latency by **25x**.
+*A centralized feature store designed to manage, store, and serve real-time ML features for fraud detection workflows[cite: 1].*
+* **Tech:** Kafka, PyFlink, Redis, PostgreSQL, FastAPI, PySpark, PyTorch[cite: 1].
+* **Highlight:** Built a real-time stream processing pipeline that improved inference latency by **25x** and slashed model training time by **77%**[cite: 1].
 
 ---
 
