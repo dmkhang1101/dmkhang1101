@@ -35,7 +35,7 @@ Previously, I engineered AI systems at **GeoComply**, and I am currently working
 
 ### 🔭 Experience
 
-* **Google (Current):** Architecting a Multi-Agent System leveraging internal frameworks and Gemini 3.5 to automate the triaging and root-cause analysis of internal bugs[cite: 1]. Building data-synthesis pipelines across codebases and experiment datasets to isolate culprit builds and cut response times by 50%.
+* **Google (Current):** Architecting a Multi-Agent System leveraging internal frameworks and Gemini 3.5 to automate the triaging and root-cause analysis of internal bugs. Building data-synthesis pipelines across codebases and experiment datasets to isolate culprit builds and cut response times by 50%.
 * **GeoComply:** Designed an AI-powered Multi-Agent System with custom MCP servers leveraging DSPy and Vertex AI to automate fraud reasoning. Optimized data layers with Databricks Lakebase to reduce data validation runtime by 50% and agent SQL retrieval latency by 80%.
 * **Omnipractice:** Developed a Google ADK-powered AI billing agent with custom MCP servers and Mem0 memory to process Mongo Change Streams and automate healthcare clearinghouse workflows.
 
@@ -50,7 +50,7 @@ Previously, I engineered AI systems at **GeoComply**, and I am currently working
 
 **🛡️ [Feature Store Fraud Detection](https://github.com/huybro/feature-store-fraud-detection)**
 *A centralized feature store designed to manage, store, and serve real-time ML features for fraud detection workflows.*
-* **Tech:** Kafka, PyFlink, Redis, PostgreSQL, FastAPI, PySpark, PyTorch[cite: 1].
+* **Tech:** Kafka, PyFlink, Redis, PostgreSQL, FastAPI, PySpark, PyTorch.
 * **Highlight:** Built a real-time stream processing pipeline that improved inference latency by **25x** and slashed model training time by **77%**.
 
 ---
